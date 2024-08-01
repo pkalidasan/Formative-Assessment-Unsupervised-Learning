@@ -1,7 +1,7 @@
 # Formative-Assessment-Unsupervised-Learning
 The objective of this project is to evaluate the understanding and application of clustering techniques using the Iris dataset.In the dataset we will , preprocess it, and apply two clustering algorithms- (KMeans and Hierarchical clustering). The results will be visualized to understand the clusters formed by each method.
 
-1. Loading and Preprocessing
+ Loading and Preprocessing
    
 Dataset Overview:
 
@@ -23,7 +23,7 @@ Preprocessing Steps:
 3.	Standardize the Data: Although not specified, it is often beneficial to scale the data to ensure that all features contribute equally to the clustering process.
 	
 
-2. Clustering Algorithm Implementation:
+Clustering Algorithm Implementation:
 
  A) KMeans Clustering:
   
