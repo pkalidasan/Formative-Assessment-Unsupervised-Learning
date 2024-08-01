@@ -21,9 +21,10 @@ Preprocessing Steps:
 2.	Drop the Species Column: Since the species label is not used in clustering, it will be excluded from the feature set.
 
 3.	Standardize the Data: Although not specified, it is often beneficial to scale the data to ensure that all features contribute equally to the clustering process.
+	
 
 2. Clustering Algorithm Implementation:
-   
+
  A) KMeans Clustering:
   
 Description of KMeans Clustering:
