@@ -36,6 +36,7 @@ KMeans clustering is a partition-based method that aims to divide a dataset into
 4.	Repeating steps 2 and 3 until the centroids converge
 
 Why KMeans is Suitable for the Iris Dataset:
+
 The Iris  dataset contains relatively well-separated groups, making it easier for KMeans to identify distinct clusters.
 KMeans is efficient for datasets with a moderate number of features and samples. 
 The number of clusters (K) can be set to 3, corresponding to the three known species, allowing us to compare the clusters with the actual categories.
